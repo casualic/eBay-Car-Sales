@@ -1,4 +1,4 @@
-# eBay-Car-Sales
+# eBay Car Sales
 Analysis of German Car Sales data from eBay utilising Pandas and NumPy libraries
 
 The Jupyter notebook file 'eBay Autos Analysis.ipnyb' contains the project with the analysis on eBay car sales data.
